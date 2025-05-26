@@ -2,7 +2,7 @@
 **Senior Business Analyst | AI Solutions Architect | M.S. AI Candidate @ UT Austin**  
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Here-8A2BE2)](https://manish4u14-utexas.github.io/my-portfolio/) 
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect_Here-blue)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect_Here-blue)](https://www.linkedin.com/in/mkchaudhari)  
 *Bridging business strategy and AI-driven technical execution for enterprise transformation.*
 
 ---
